@@ -681,7 +681,22 @@ h6 {
   top: -90px;
   left: 45px;
 }
+        
+#input {
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+}
+        
 
+.input {
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+}
+   
+#label{
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+}     
 .background-bitrix2 {
   position: absolute;
   top: 95px;
