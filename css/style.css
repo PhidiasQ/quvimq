@@ -101,6 +101,38 @@ button {
 a {
   color: inherit;
 }
+        input:focus {
+outline: none;
+-webkit-tap-higlight-color: transparent;
+}
+label:focus {
+outline: none;
+-webkit-tap-higlight-color: transparent;
+}
+#input:focus {
+outline: none;
+-webkit-tap-higlight-color: transparent;
+}
+#label:focus {
+outline: none;
+-webkit-tap-higlight-color: transparent;
+}
+.input:focus {
+outline: none;
+-webkit-tap-higlight-color: transparent;
+}
+.checkbox:focus {
+outline: none;
+-webkit-tap-higlight-color: transparent;
+}
+.label:focus {
+outline: none;
+-webkit-tap-higlight-color: transparent;
+}
+.checktext:focus {
+outline: none;
+-webkit-tap-higlight-color: transparent;
+}
 
 a:link,
 a:visited {
