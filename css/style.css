@@ -21,6 +21,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.input{cursor:none;}#input{cursor:none;}
 [class*=_icon-]:before {
   display: block;
 }
