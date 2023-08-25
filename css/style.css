@@ -20,16 +20,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-.main-page__button {
-    -webkit-tap-highlight-color: transparent;
 
-}
-.label1 {
-    -webkit-tap-highlight-color: transparent;
-}
-.label {
-    -webkit-tap-highlight-color: transparent;
-}
 
 
 ._icon-arrow:before {
@@ -326,7 +317,16 @@ h6 {
       -ms-flex: 1 1 auto;
           flex: 1 1 auto;
 }
+.main-page__button {
+    -webkit-tap-highlight-color: transparent;
 
+}
+.label1 {
+    -webkit-tap-highlight-color: transparent;
+}
+.label {
+    -webkit-tap-highlight-color: transparent;
+}
 .menu__list {
   display: -webkit-box;
   display: -ms-flexbox;
