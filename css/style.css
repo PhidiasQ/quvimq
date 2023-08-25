@@ -20,11 +20,17 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.main-page__button {
+    -webkit-tap-highlight-color: transparent;
 
-.input{cursor:none;}#input{cursor:none;}
-[class*=_icon-]:before {
-  display: block;
 }
+.label1 {
+    -webkit-tap-highlight-color: transparent;
+}
+.label {
+    -webkit-tap-highlight-color: transparent;
+}
+
 
 ._icon-arrow:before {
   content: "\e900";
